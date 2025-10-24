@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1 style="color:red">Elemento estatico</h1>
     <MenuComponent/>
     <hr/>
     <router-view></router-view>

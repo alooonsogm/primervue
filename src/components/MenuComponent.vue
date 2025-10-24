@@ -11,7 +11,16 @@
                 <router-link to="/cine">Cine</router-link> |
             </li>
             <li>
-                <router-link to="/holamundo">Hola mundo</router-link>
+                <router-link to="/holamundo">Hola mundo</router-link> |
+            </li>
+            <li>
+                <router-link to="/ciclovida">Ciclo de vida</router-link> |
+            </li>
+            <li>
+                <router-link to="/directivas">Directivas</router-link> |
+            </li>
+            <li>
+                <router-link to="/parimpar">Par e Impar</router-link>
             </li>
         </ul>
     </div>
