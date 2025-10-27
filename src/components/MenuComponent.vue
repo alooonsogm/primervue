@@ -20,7 +20,13 @@
                 <router-link to="/directivas">Directivas</router-link> |
             </li>
             <li>
-                <router-link to="/parimpar">Par e Impar</router-link>
+                <router-link to="/parimpar">Par e Impar</router-link> |
+            </li>
+            <li>
+                <router-link to="/propiedadconmutada">Propiedad Conmutada</router-link> |
+            </li>
+            <li>
+                <router-link to="/metodosfilters">Metodos Filters</router-link>
             </li>
         </ul>
     </div>
